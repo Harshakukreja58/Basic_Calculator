@@ -1,2 +1,2 @@
-# Basic_Calculator
-A Simple Calculator used to perform all arithmetic operations
+# Basic_Calculator📟
+A Simple Calculator used to perform all arithmetic operations "➕","➖","✖️","➗"
